@@ -1,0 +1,15 @@
+bg-gradient-to-r from-black to-white h-[200px]
+bg-gradient-to-l from-black to-white h-[300px]
+bg-gradient-to-t from-black to-white h-[400px]
+bg-gradient-to-b from-black to-white h-[500px]
+bg-gradient-to-tr from-black to-white h-[100px]
+bg-gradient-to-tl from-black to-white h-[150px]
+bg-gradient-to-br from-black to-white h-[250px]
+bg-gradient-to-bl from-black to-white h-[350px]
+w-[100px] w-[200px] w-[300px] w-[400px] w-[500px] w-[600px] w-[700px] w-[800px] w-[900px] w-[1000px]
+h-[50px] h-[75px] h-[125px] h-[175px] h-[225px] h-[275px] h-[325px] h-[375px] h-[425px] h-[475px]
+h-[10vh] h-[20vh] h-[30vh] h-[40vh] h-[50vh] h-[60vh] h-[70vh] h-[80vh] h-[90vh] h-[100vh]
+w-[10vw] w-[20vw] w-[30vw] w-[40vw] w-[50vw] w-[60vw] w-[70vw] w-[80vw] w-[90vw] w-[100vw]
+from-red-500 from-blue-500 from-green-500 from-yellow-500 from-purple-500 from-pink-500
+to-red-500 to-blue-500 to-green-500 to-yellow-500 to-purple-500 to-pink-500
+via-red-500 via-blue-500 via-green-500 via-yellow-500 via-purple-500 via-pink-500
